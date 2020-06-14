@@ -11,7 +11,7 @@ If you need to balance your dataset, your can use the AfricanMaskedFaces dataset
 # Dataset contents
 The dataset is made of 2 parts:
 - Masked faces dataset :  2340 image files and 5208 bounding boxes. Please check the folder named "03_AFRICA_MASK"
-- Faces dataset : 4606 image files and and 6561 bounding boxes. Please check the folders named "04_AFRICA_FACES_IN_THE_WILD" and "05_AFRICA_FACES_FASHION"
+- Faces dataset : 4606 image files and and 9591 bounding boxes. Please check the folders named "04_AFRICA_FACES_IN_THE_WILD" and "05_AFRICA_FACES_FASHION"
 
 # Download
 Please check this link to download the dataset : https://drive.google.com/file/d/1Nf3nkpwinD8-n6v2lonpizi3l38MWoN5/view?usp=sharing
