@@ -17,5 +17,9 @@ The dataset is made of 2 parts:
 Please check this link to download the dataset : https://drive.google.com/file/d/1Nf3nkpwinD8-n6v2lonpizi3l38MWoN5/view?usp=sharing
 
 # Exemples
-![alt text](https://github.com/archiducarmel/AfricanMaskedFaces/blob/[master/github/Africa_8.jpg?raw=true)
+![alt text](https://github.com/archiducarmel/AfricanMaskedFaces/blob/master/github/Africa_8.jpg?raw=true)
+![alt text](https://github.com/archiducarmel/AfricanMaskedFaces/blob/master/github/Africa_Mask_60.jpg?raw=true)
+![alt text](https://github.com/archiducarmel/AfricanMaskedFaces/blob/master/github/Africa_Mask_212.jpg?raw=true)
+![alt text](https://github.com/archiducarmel/AfricanMaskedFaces/blob/master/github/AfricaFashion_601.jpg?raw=true)
+
 
